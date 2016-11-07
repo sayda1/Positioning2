@@ -1,0 +1,10 @@
+body{
+background-image: url(img/descarga.jpg);
+    font-family: monospace;
+    font-size: 11em;
+    color: aliceblue;
+    text-align: center;
+}
+a{
+    color: aliceblue;
+}
